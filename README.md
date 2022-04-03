@@ -1,2 +1,2 @@
-# bangla-dictionary
-Template for Bangla Dictionary
+# Bangla Dictionary Template
+Bangla Dictionary Template Development

@@ -1,12 +1,3 @@
-.button-css{
-    padding-top: 40px;
-}
-.button-css button{
-    border: 1px solid #6199E4;
-    border-radius: 20px;
-    font-weight: bold;
-    color: #FF0307;
-}
 .logo{
     margin-top: 100px;
     margin-bottom: 20px;
@@ -17,18 +8,29 @@
     display: block;
     margin: 0 auto;
 }
+
 .search input{
-    border-radius: 30px;
-    border:2px solid #505050;
+    border-radius: 0;
     font-size: 18px;
-    font-weight: bold;
+    font-weight:500;
+    color: #929EA9;
 }
 .form-inputs{
     position: relative;
+    box-shadow: 0 0 12px 0 #B8B8B8;
 }
-.form-inputs i {
+.form-inputs select{
+    border-radius: 0;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500;
+    width: 200px;
+}
+
+.form-inputs img {
     position: absolute;
     right: 20px;
     top: 20px;
-    font-size:24px;
+    height:24px;
+    width: 24px;
 }

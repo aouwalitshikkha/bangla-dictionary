@@ -26,9 +26,10 @@
 .form-inputs{
     position: relative;
 }
-.form-inputs i {
+.form-inputs img {
     position: absolute;
     right: 20px;
     top: 20px;
-    font-size:24px;
+    height:24px;
+    width: 24px;
 }

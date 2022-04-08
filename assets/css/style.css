@@ -10,6 +10,14 @@
     margin: 0 auto;
 }
 
+.single-logo img {
+    height: 25%;
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+
+
 .search input {
     border-radius: 0;
     font-size: 18px;
@@ -44,10 +52,11 @@
         height: 35%;
         width: 35%;
     }
+
     .col-md-8 {
         width: 90%;
     }
-    
+
     .form-inputs select {
         font-size: 16px;
         width: 180px;
@@ -81,7 +90,7 @@
     .logo {
         margin-top: 70px;
     }
-    
+
     .col-md-8 {
         width: 100%;
     }
@@ -106,10 +115,12 @@
     .logo {
         margin-top: 60px;
     }
+
     .logo img {
         height: 40%;
         width: 40%;
     }
+
     .form-inputs select {
         font-size: 15px;
         width: 175px;
